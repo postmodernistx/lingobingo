@@ -1,4 +1,5 @@
-# lingobingo
+# Lingo Bingo
+Basic bingo board
 
 ## Project setup
 ```
